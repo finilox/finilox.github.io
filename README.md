@@ -10,6 +10,5 @@ before the dragons had come out of their caves in the high mountains, the frogs 
 
 
 To be Continued...
-Please check out [This neat page here.](https://pages.github.com](https://scp-wiki.wikidot.com/wanderers-library-hub).
-
+Please check out [this neat little page here.](https://scp-wiki.wikidot.com/wanderers-library-hub).
 

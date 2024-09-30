@@ -1,8 +1,8 @@
 # finilox.github.io
 
-**Finilox HD TV**
-_report bugs_
+**Provecta laboratories**
+_(please report any bugs)_
 
-# : theme: jekyll-theme-minimal
-## : Finilox's Homepage
-### : description: meant to update. please be patient.
+# jekyll-theme-minimal
+## Finilox's Homepage
+

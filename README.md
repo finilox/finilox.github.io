@@ -1,6 +1,13 @@
 # finilox.github.io
-theme: jekyll-theme-minimal
 
-title: Finilox's Homepage
+**This is bold text**
 
-description: meant to update. please be patient.
+__This is bold text__
+
+*This is italic text*
+
+_This is Italic text_
+
+# h1 Heading: theme: jekyll-theme-minimal
+## h2 Heading: Finilox's Homepage
+### h3 Heading: description: meant to update. please be patient.

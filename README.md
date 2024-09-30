@@ -3,12 +3,18 @@
 **created by finilox**
 _(please report any bugs)_
 
-## The Frog who lived in a pond.
+## The Frog who lived beside a pond.
 ### A long time ago...
 
-before the dragons had come out of their caves in the high mountains, the frogs were thriving in their humid and muddy kingdom. The kingdom of frogs had settled somewhere in ~~Ancient China~~ northern Europe,although the exact location remains a mystery as they are _very_ secretive. In this community there lived a frog whose job was farmer. His name was Fosh. He wore a dirty white chemise, though now brown by age. Fosh has never been bored with his job. "I am never bored of my job, he says."
+The damp swampland of Morokia situated in northern Europe were filled with sorrow as their leader, King Edward II has been stabbed by a traitor. The old town became quiet and miserable, the skies were as dark as the midnight forest and everything seemed to perish. He sighed again, for the fourth time. 
 
+"These are dark times, Ventus" with a frown, said Solivis. Ventus was silent. <sup>1</sup> text She was watching the rain outside as drops of water race to the bottom on the surface of her window. The herb garden she so beautifully crafted from precious resources were full of ripe berries and plums. 
 
 To be Continued...
-Please check out [this neat little page here.](https://scp-wiki.wikidot.com/wanderers-library-hub).
+
+
+Footnotes: 
+1 "Ventus" means "Wind" in Latin. **Ventus was silent.** has been use in this context to refer to _when the winds were silent_, also ro refer to the character's speechlessness.
+
+Bookworms can check out [this neat little page here.](https://scp-wiki.wikidot.com/wanderers-library-hub).
 

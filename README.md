@@ -1,7 +1,7 @@
 # finilox.github.io
 # Ye Olde Tales
 
-_function_ monocraftFont 
+function monocraftFont 
 
 **created by finilox**
 _(please report any bugs)_

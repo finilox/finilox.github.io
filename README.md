@@ -1,13 +1,11 @@
 # finilox.github.io
-# 𝚈𝚎 𝙾𝚕𝚍𝚎 𝚃𝚊𝚕𝚎𝚜
 
-function monocraftFont 
 
-**created by finilox**
+**created by F̵̙̖̋͗̈́͆̔̇͘i̶̯͍͔̗̳̮̖̎̈́̿̓̏̈́͒̑́̐̃̽ņ̴̨̢̼̀͑̾̑͒̂̓͊͌̈́i̶̧̢̮̞̦͇̠͇͓͖̟̳̹̮̍̏l̵̨̹̖̣̲͈̳͖̙͔̲̻͚͛͂̀͝ͅo̴͉͐̓̑̆̒̽̈͒̾̏̚͠͝x̷̢̧̛̲̠͇̙̠̝̳̬̳̹̔̿͜**
 _(please report any bugs)_
 
-## When the Winds were Silent
-### A long time ago...
+## Provecta Laboratories
+### Welcome to Provecta Laboratories! A scientific research organization!
 
 The damp swampland of Morokia, situated in northern Europe were filled with sorrow as their leader, King Edward II has been stabbed by a traitor. The old town became quiet and miserable, the skies seemed as dark as the midnight forest and everything seemed to perish. He sighed again, for the fourth time.
 

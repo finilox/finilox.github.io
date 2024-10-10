@@ -1,17 +1,15 @@
-# finilox.github.io
+# Provecta Laboratories
 
 
 **created by F̵̙̖̋͗̈́͆̔̇͘i̶̯͍͔̗̳̮̖̎̈́̿̓̏̈́͒̑́̐̃̽ņ̴̨̢̼̀͑̾̑͒̂̓͊͌̈́i̶̧̢̮̞̦͇̠͇͓͖̟̳̹̮̍̏l̵̨̹̖̣̲͈̳͖̙͔̲̻͚͛͂̀͝ͅo̴͉͐̓̑̆̒̽̈͒̾̏̚͠͝x̷̢̧̛̲̠͇̙̠̝̳̬̳̹̔̿͜**
 _(please report any bugs)_
 
-## Provecta Laboratories
+## Cogito Ergo Sum
 ### Welcome to Provecta Laboratories! A scientific research organization!
 
-The damp swampland of Morokia, situated in northern Europe were filled with sorrow as their leader, King Edward II has been stabbed by a traitor. The old town became quiet and miserable, the skies seemed as dark as the midnight forest and everything seemed to perish. He sighed again, for the fourth time.
+Provecta Laboratories is a scientific organization created in the 1950s.
 
-"These are dark times, Ventus" with a frown, said Solivis. Ventus was silent . She was watching the rain outside as drops of water race to the bottom on the surface of her window and damaging the wood below. The herb garden she so beautifully crafted from precious resources were full of ripe berries and plums, all gone to mush now. "Why does this happen?" cried Solivis. Before Ventus could even mutter a word Solivis had gotten up from his old rugged wooden chair and headed outside, leaving the door creaking.
-
-# To be Continued...
+# Join Us...
 
 
 Also check out [this.](https://scp-wiki.wikidot.com/wanderers-library-hub)

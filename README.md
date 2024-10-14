@@ -5,7 +5,7 @@
 _(please report any bugs)_
 
 ## Cogito Ergo Sum
-### Lorem ipsum dolor sit amet
+### scientia epsa potentia est
 
 煎蛋煎蛋卷
 

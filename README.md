@@ -5,7 +5,7 @@
 _(please report any bugs)_
 
 ## Cogito Ergo Sum
-### scientia epsa potentia est
+### scientia ipsa potentia est
 
 煎蛋煎蛋卷
 

@@ -2,15 +2,9 @@
 
 
 **created by F̵̙̖̋͗̈́͆̔̇͘i̶̯͍͔̗̳̮̖̎̈́̿̓̏̈́͒̑́̐̃̽ņ̴̨̢̼̀͑̾̑͒̂̓͊͌̈́i̶̧̢̮̞̦͇̠͇͓͖̟̳̹̮̍̏l̵̨̹̖̣̲͈̳͖̙͔̲̻͚͛͂̀͝ͅo̴͉͐̓̑̆̒̽̈͒̾̏̚͠͝x̷̢̧̛̲̠͇̙̠̝̳̬̳̹̔̿͜**
-_(please report any bugs)_
+_(please report any bugs)
 
-## Cogito Ergo Sum
-### scientia ipsa potentia est
-
-煎蛋煎蛋卷
-
-# Currently closed under maintenance.
+# no.
 
 
-Also check out [this.](https://scp-wiki.wikidot.com/wanderers-library-hub)
 

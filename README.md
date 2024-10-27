@@ -8,4 +8,4 @@ _(please report any bugs)
 ## 【W】【h】【a】【t】 【t】【h】【e】 【f】【u】【c】【k】 【i】【s】 【a】 【b】【i】【r】【d】
 
 
-
+![Screenshot 2024-10-27 124840](https://github.com/user-attachments/assets/2e894801-1d9e-42d2-b5c3-eec4df8d9576)
